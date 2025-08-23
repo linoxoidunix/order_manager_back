@@ -1,0 +1,25 @@
+# Cargo
+/target/
+**/target/
+
+# Бинарники
+*.exe
+*.dll
+*.bin
+*.so
+*.dylib
+
+# Логи и временные файлы
+*.log
+*.tmp
+
+# Конфиги среды разработки
+*.env
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+config.toml
+
+# Файлы сборки
+Cargo.lock      
